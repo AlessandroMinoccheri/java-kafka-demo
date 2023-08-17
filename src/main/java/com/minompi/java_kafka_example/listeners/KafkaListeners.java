@@ -1,4 +1,4 @@
-package com.minompi.java_kafka_example;
+package com.minompi.java_kafka_example.listeners;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;

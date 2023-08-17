@@ -1,5 +1,7 @@
 package com.minompi.java_kafka_example;
 
+import com.minompi.java_kafka_example.models.Customer;
+import com.minompi.java_kafka_example.repositories.CustomerRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

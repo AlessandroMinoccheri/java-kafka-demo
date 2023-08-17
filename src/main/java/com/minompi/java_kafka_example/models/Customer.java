@@ -1,4 +1,4 @@
-package com.minompi.java_kafka_example;
+package com.minompi.java_kafka_example.models;
 
 import jakarta.persistence.*;
 
