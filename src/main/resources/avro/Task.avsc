@@ -1,0 +1,11 @@
+{
+  "namespace": "com.minompi.java_kafka_example.kafka.avro.model",
+  "type": "record",
+  "name": "Task",
+  "fields": [
+    {
+      "name": "message",
+      "type": "string"
+    }
+  ]
+}
